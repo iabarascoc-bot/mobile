@@ -138,7 +138,7 @@ nav ul li a {
 }
 
 .home-container {
-    position: fixed;
+    position: flex;
     top: 10px;              /* Adjust space from top */
     left: 10px;             /* Adjust space from left */
     z-index: 1000;          /* Ensure it's above other elements */
